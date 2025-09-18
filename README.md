@@ -4,12 +4,14 @@ This repository contains Colab notebooks for visualizing and analyzing data gene
 
 ## Contents
 
-- `DFTdav.ipynb` – Main notebook for plotting and analyzing DFT data.
+- `DFTdav.ipynb` – Main notebook for plotting and analyzing DFT data for structural and electronic properties.
+- `ElasticProperties.ipynb` – for plotting of mechanical properties
 
 ## Features
 
 - Visualization of structural and electronic properties, including preliminary convergence plots
 - Plotting utilities for band structure, density of states (DOS), and related properties.
+- Creating plots for elastic moduli
 - Data processing workflows suitable for quantum materials research.
 
 ## Requirements
@@ -27,7 +29,7 @@ This repository contains Colab notebooks for visualizing and analyzing data gene
 1. Clone this repo:
    ```bash
    git clone https://github.com/operiojrr/VSU-Computational-Materials-Science-Research-Data-Visualization-and-Analysis.git
-2. Open the notebook (DFTdav.ipynb) in Google Colab and save a copy (do not use the main notebook; instead, use your copy).
+2. Open a notebook (.ipynb) in Google Colab and save a copy (do not use the main notebook; instead, use your copy).
 3. Upload and then provide paths to your simulation output files.
 4. Run the notebook cells to generate plots and analysis.
 5. Edit depending pn your needs.
@@ -36,6 +38,7 @@ This repository contains Colab notebooks for visualizing and analyzing data gene
  - Ecut and k-point convergence plots.
  - Lattice constants and Birch-Murnaghan EoS model fitting.
  - Band structure and DOS plotting.
+ - Elastic moduli such as bulk modulus and shear modulus
 
 ## Contributing
 
