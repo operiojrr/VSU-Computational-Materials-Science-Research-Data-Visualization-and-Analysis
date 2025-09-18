@@ -1,6 +1,6 @@
-# VSU Computational Materials Science: Research Data Visualization and Analysis
+# VSU Computational Materials Science Research Data Visualization and Analysis
 
-This repository contains Colab notebooks for visualizing and analyzing data generated from **Density Functional Theory (DFT)** calculations, particularly using **Quantum ESPRESSO**. It is part of the work developed by the VSU Theoretical and Computational Research Group.
+This repository contains Colab notebooks for visualizing and analyzing data generated from **Density Functional Theory (DFT)** calculations, particularly using **Quantum ESPRESSO**. It is part of the work developed by the VSU Theoretical and Computational Research Group, a joint research group between the Department of Physics and Department of Pure and Applied Chemistry.
 
 ## Contents
 
