@@ -1,15 +1,15 @@
-# VSU Computational Materials Science Research Data Visualization and Analysis
+# VSU Computational Materials Science Research Data Processing and Visualization
 
 This repository contains Colab notebooks for visualizing and analyzing data generated from **Density Functional Theory (DFT)** calculations, particularly using **Quantum ESPRESSO**. It is part of the work developed by the VSU Theoretical and Computational Research Group, a joint research group between the Department of Physics and Department of Pure and Applied Chemistry.
 
 ## Contents
 
-- `DFTdav.ipynb` – Main notebook for plotting and analyzing DFT data for structural and electronic properties.
-- `ElasticProperties.ipynb` – for plotting of mechanical properties
+- `DFTDataProcessingandVisualizationNotebook.ipynb` – Main notebook for plotting and analyzing DFT data for structural, electronic, and elastic properties.
+- folder containing sample data for use in the notebook
 
 ## Features
 
-- Visualization of structural and electronic properties, including preliminary convergence plots
+- Visualization of structural properties, including preliminary convergence plots
 - Plotting utilities for band structure, density of states (DOS), and related properties.
 - Creating plots for elastic moduli
 - Data processing workflows suitable for quantum materials research.
@@ -48,3 +48,4 @@ Feel free to fork this repository and submit pull requests for improvements, bug
 
 Maintainer: Operio J.R.R
 Affiliation: VSU Theoretical and Computational Research Group
+linkedIn: https://www.linkedin.com/in/jericho-ross-o-74a850344/
