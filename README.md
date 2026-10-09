@@ -26,26 +26,23 @@ This repository contains Colab notebooks for visualizing and analyzing data gene
 
 ## Usage
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/operiojrr/VSU-Computational-Materials-Science-Research-Data-Visualization-and-Analysis.git
-2. Open a notebook (.ipynb) in Google Colab and save a copy (do not use the main notebook; instead, use your copy).
-3. Upload and then provide paths to your simulation output files.
-4. Run the notebook cells to generate plots and analysis.
-5. Edit depending pn your needs.
+1. Open Google Colab and save a copy (do not use the main notebook; instead, use your copy).
+2. Upload and then provide paths to your simulation output files.
+3. Run the notebook cells to generate plots and analysis.
+4. Edit depending on your needs.
 
 ## Example Applications
  - Ecut and k-point convergence plots.
  - Lattice constants and Birch-Murnaghan EoS model fitting.
+ - Elastic moduli such as bulk modulus and shear modulus.
  - Band structure and DOS plotting.
- - Elastic moduli such as bulk modulus and shear modulus
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests for improvements, bug fixes, or new features.
+Feel free to use this for your needs, whether for practice or for research
 
 ## Contact
 
-Maintainer: Operio J.R.R
-Affiliation: VSU Theoretical and Computational Research Group
+Maintainer: Operio J.R.R\
+Affiliation: VSU Theoretical and Computational Research Group\
 linkedIn: https://www.linkedin.com/in/jericho-ross-o-74a850344/
